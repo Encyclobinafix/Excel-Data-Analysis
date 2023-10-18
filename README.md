@@ -22,7 +22,8 @@ The following representations were required:
 
 ![](Question_2.png)
 
-### _Step 1_: The medicat student dataset was cleaned and filtered. There were missing data in several rows. The "find and replace" functionality was used to find the averages of numerical values and these were used to fill in the blanks. Also, for columns with text data, specific instructions were given on what to replace blanks with. This was effecctively done.
+### _Step 1_: 
+The medical student dataset was cleaned and filtered. There were missing data in several rows. The "find and replace" functionality was used to find the averages of numerical values and these were used to fill in the blanks. Also, for columns with text data, specific instructions were given on what to replace the blanks with and this was effecctively done.
 
 Data Set                    |              Average Values
 :-------------------------:|:--------------------------------:
